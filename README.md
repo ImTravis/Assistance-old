@@ -1,0 +1,2 @@
+# assistance-old
+The old source code to the Assistance ticket bot. This code is very messy and half of the code is useless. This bot is more than usable, but before using on a serious server, patch things up a bit.
